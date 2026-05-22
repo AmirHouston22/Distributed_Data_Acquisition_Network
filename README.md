@@ -2,7 +2,7 @@
 [insert image] 
 
 ## Overview
-This project is a distributed data acquisition network that is designed for real-time monitoring of temperature, pressure, and airflow within a biomass gasifier. It is developed to support biomass gasification research through synchronized environmental data collection and experimental analysis. It integrates embedded systems, wireless telemetry, distributed instrumentation, and custom PCB development into a scalable monitoring platform for research.
+This project is a distributed data acquisition network that is designed for real-time monitoring of temperature, pressure, and airflow within a biomass gasifier. It is developed to support biomass gasification research through synchronized data collection and experimental analysis. It integrates embedded systems, wireless telemetry, distributed instrumentation, and custom PCB development into a scalable monitoring platform for research.
 
 
 
